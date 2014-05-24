@@ -1,6 +1,6 @@
 # luhn-ruby
 
-A simple Luhn algorithm implementation
+A simple Luhn-algorithm implementation
 
 ## Installation
 
