@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'luhn_pro'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2014-05-24'
   s.summary     = "Luhn-algorithm implementation"
   s.description = "A simple Luhn-algorithm implementation"
