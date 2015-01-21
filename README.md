@@ -2,6 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/luhn_pro.svg)](http://badge.fury.io/rb/luhn_pro)
 [![Build Status](https://travis-ci.org/gabulyaz/luhn_pro.svg?branch=master)](https://travis-ci.org/gabulyaz/luhn_pro)
+[![Code Climate](https://codeclimate.com/github/gabulyaz/luhn_pro/badges/gpa.svg)](https://codeclimate.com/github/gabulyaz/luhn_pro)
 
 A simple Luhn-algorithm implementation
 
