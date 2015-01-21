@@ -1,9 +1,4 @@
-desc "Commands:"
-task :default do
-	sh "rake -T"
-end
-
-desc "Run cucumber for test ..."
+desc "Run test"
 task :test do
-	sh "cd test;cucumber;cd .."
+	sh "rspec spec/lib/luhn_pro_spec.rb"
 end
