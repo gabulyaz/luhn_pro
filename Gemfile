@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-"rake"
+gem 'rake'
 
 gemspec
