@@ -1,4 +1,7 @@
-# luhn-ruby
+# luhn-pro
+
+[![Gem Version](https://badge.fury.io/rb/luhn_pro.svg)](http://badge.fury.io/rb/luhn_pro)
+[![Build Status](https://travis-ci.org/gabulyaz/luhn_pro.svg?branch=master)](https://travis-ci.org/gabulyaz/luhn_pro)
 
 A simple Luhn-algorithm implementation
 
